@@ -1,0 +1,61 @@
+{
+  "dwc-info": {
+    "coords": {
+      "xyz": [
+        0,
+        0,
+        0
+      ],
+      "machine": [
+        0,
+        0,
+        0
+      ]
+    },
+    "speeds": {
+      "requested": 0,
+      "top": 0
+    },
+    "params": {
+      "fanPercent": [
+        100,
+        0,
+        80
+      ],
+      "speedFactor": 100,
+      "extrFactors": [
+        100,
+        100,
+        100,
+        100
+      ],
+      "babystep": 0
+    },
+    "seq": 340,
+    "temps": {
+      "bed": {
+        "current": 24.4,
+        "active": 0,
+        "state": 2,
+        "heater": 0
+      },
+      "current": [
+        24.4,
+        24,
+        2000
+      ],
+      "state": [
+        2,
+        2,
+        0
+      ],
+      "extra": [
+        {
+          "name": "*MCU",
+          "temp": 32.5
+        }
+      ]
+    },
+    "time": 4603
+  }
+}
