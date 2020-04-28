@@ -1,4 +1,4 @@
-// learn_2.js
+// learn_3.js
 
 // for debugging purposes
 console.log('learn opened');
