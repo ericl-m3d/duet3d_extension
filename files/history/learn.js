@@ -1,4 +1,4 @@
-// rlean.js
+// lean.js
 
 // sample
 
