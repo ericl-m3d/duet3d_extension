@@ -11,4 +11,5 @@ Use [draw.io](https://app.diagrams.net/) to see flowchart
   * Export Preference: `.svg`  
 
 *note: `.svg` files can opened via browsers online or offline*  
+*note: Github can load `.svg` files. However, **better to right click and open in new tab** (allows zoom-in)*  
 
