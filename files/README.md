@@ -8,11 +8,11 @@ All other `.json` files are forms of information storage.
 # Code Flowchart  
 
 Use [draw.io](https://app.diagrams.net/) to see flowchart  
-* Upload `Code Flowchart.xml` file to view  
+* Upload `.xml` or `.drawio` file to view  
 
 ***Flowchart also contains developer notes***  
 
-**CATUION:** `Code Flowchart.xml` file is ***only a tag*** to real xml file (housed in draw.io database)
+**CAUTION:** `.xml` and `.drawio` file is ***only a tag*** to real xml file (housed in draw.io database)
   * Be conscious of exporting real file once in a while. Store in folder `history/flowcharts`.
   * Export Preference: `.svg`  
 
