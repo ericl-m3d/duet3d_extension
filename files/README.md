@@ -1,3 +1,8 @@
+# Main Execution File: 
+`learn_#.js`  
+
+All other `.json` files are forms of information storage.  
+
 # Code Flowchart  
 
 Use [draw.io](https://app.diagrams.net/) to see flowchart  
