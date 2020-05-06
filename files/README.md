@@ -3,6 +3,8 @@
 
 All other `.json` files are forms of information storage.  
 
+*note: ignore `.DS_Store` file (identifies file-viewing layout in computer desktops)* 
+
 # Code Flowchart  
 
 Use [draw.io](https://app.diagrams.net/) to see flowchart  
